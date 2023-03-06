@@ -1,5 +1,5 @@
 # ClassRoom
 
-##JUST A TEST
+## JUST A TEST
 
-###Boo
+### Boo
